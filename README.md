@@ -90,3 +90,24 @@ Whether you're running a small college hackathon or a large-scale event, HackMan
 - 📱 Mobile app companion
 - 🤝 Participant networking features
 - 🏆 Customizable achievement badges
+
+## 🤝How to contribute
+
+1. **Fork the repository** - Click the Fork button in the top-right corner of this page
+2. **Clone your fork** - `git clone https://github.com/your-username/hack-manager.git`
+3. **Create a branch** - `git checkout -b feature/your-amazing-feature`
+4. **Install dependencies** - `npm install`
+5. **Make your changes** - Implement your feature or bug fix and test it.
+6. **Commit your changes**
+
+### Development Setup
+
+```bash
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+```
+
+We appreciate all contributions, whether it's code, documentation, design, or suggestions!
